@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void populateRecyclerView() {
-        stringArrayList.add("9400443336");
+        stringArrayList.add("7902225955");
         stringArrayList.add("7561883710");
 
 
